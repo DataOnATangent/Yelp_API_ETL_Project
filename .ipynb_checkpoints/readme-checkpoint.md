@@ -33,8 +33,8 @@ Specifically, when it came to rating distribution, price tier distribution, and 
 
 (Chart count by tier by rating), (Chart metro are by category density) 
 <p align="center">
-  <img width="260" height="150" src=Images/Area_Combined_Rating_By_Price_count.png>
-  <img width="260" height="200" src=Images/Area_Business_Catagory.png>
+  <img width="460" height="200" src=Images/Area_Combined_Rating_By_Price_count.png>
+  <img width="460" height="200" src=Images/Area_Business_Catagory.png>
 </p> 
 
 
