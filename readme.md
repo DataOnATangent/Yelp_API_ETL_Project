@@ -58,7 +58,7 @@ And thus, we decided to repeat our analysis using the top five densest zip-codes
 
 (Median income zipcodes chart) <p align="center">
   <img width="460" height="300" src=Images/Zip_median_income_miami.png> 
-    <img width="460" height="300" src=Images/Zip_median_income_orlando.png>
+    <img width="460" height="400" src=Images/Zip_median_income_orlando.png>
 </p>
 
 This is where we started to note differences including room for growth in the high tier marker  
