@@ -36,7 +36,7 @@ Specifically, when it came to rating distribution, price tier distribution, and 
 
 Both locations already support a high density of spas with more than 1500 hundred spas within 25 miles of the city center and a multitude of categories. 
 
-<p>
+<p align="center">
    <img width="460" height="400" src=Images/Area_Business_Catagory.png>
 </p> 
 
