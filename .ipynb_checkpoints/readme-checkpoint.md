@@ -61,7 +61,7 @@ And thus, we decided to repeat our analysis using the top five densest zip-codes
     <img width="460" height="300" src=Images/Zip_median_income_orlando.png>
 </p>
 
-This is where we started to note differences including room for growth in the high tier marker  
+This is where we started to note differences including room for growth in the high tier market.  
 
 (count by rating by price tier for the zips). 
 <p align="center">
