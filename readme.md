@@ -22,7 +22,7 @@ We are looking to open a new spa, Hasta Spa Vista, and trying to decide where is
 
 We began our analysis by looking at the available datapoint of price tier, rating, business density, categories, zip-code, and review count. Notably, throughout our analysis, if any of these points were unavailable the business was excluded from that aspect of the analysis. What we discovered early on was how highly analogous our chosen markets are. 
 
-(Charts: break by rating, break price (in tiers) , (box plot) by review count)
+
 <p align="center">
   <img width="260" height="250" src=Images/Area_Business_By_Price_Tier.png>
 <img width="260" height="230" src=Images/Area_Business_By_Rating.png>
@@ -31,7 +31,7 @@ We began our analysis by looking at the available datapoint of price tier, ratin
 
 Specifically, when it came to rating distribution, price tier distribution, and review counts, the difference between the two were negligible. While this would mean we would need to dig a little deeper to form a basis for our location decision, it did mean that both locations were comparatively good options for a new business. Both locations already support a high density of spas with more than 1500 hundred spas within 25 miles of the city center. 
 
-(Chart count by tier by rating), (Chart metro are by category density) 
+ 
 <p align="center">
   <img width="460" height="200" src=Images/Area_Combined_Rating_By_Price_count.png>
 </p> 
@@ -48,7 +48,7 @@ This also highlighted the limitations of working with Yelp data as further outsi
 
 We next chose to focus to look at which zip-codes had the highest density of spas believing that if these zip-codes already supported a high number of similar businesses, these areas would also be reflective of our future customers.
 
-(Top 10 zip code by density charts here) 
+
 <p align="center">
   <img width="460" height="300" src=Images/Miami_Zip_density.png>
 <img width="460" height="300" src=Images/Orlando_Zip_Density.png>
@@ -56,14 +56,14 @@ We next chose to focus to look at which zip-codes had the highest density of spa
 
 And thus, we decided to repeat our analysis using the top five densest zip-codes for each area. Upon doing so we discover that these zip-code all had a higher median income versus the larger metro area. 
 
-(Median income zipcodes chart) <p align="center">
+ <p align="center">
   <img width="460" height="300" src=Images/Zip_median_income_miami.png> 
     <img width="460" height="300" src=Images/Zip_median_income_orlando.png>
 </p>
 
 This is where we started to note differences including room for growth in the high tier market.  
 
-(count by rating by price tier for the zips). 
+ 
 <p align="center">
   <img width="660" height="300" src=Images/Zip_rating_by_price_tier_count_2.png>
 </p> 
@@ -71,7 +71,7 @@ This is where we started to note differences including room for growth in the hi
 
 Moreover when looking at review count for by price tier, the subset further highlights the room for growth as compared to Miami because people due to stark difference in number of reviews.  
 
-(Chart review counnt boxplot) <p align="center">
+ <p align="center">
   <img width="460" height="500" src=Images/Zip_review_count_boxplot.png>
 </p> 
 
