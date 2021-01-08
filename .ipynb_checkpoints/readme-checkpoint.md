@@ -36,7 +36,7 @@ Specifically, when it came to rating distribution, price tier distribution, and 
   <img width="460" height="200" src=Images/Area_Combined_Rating_By_Price_count.png>
 </p> 
 <p>
-   <img width="460" height="200" src=Images/Area_Business_Catagory.png>
+   <img width="460" height="400" src=Images/Area_Business_Catagory.png>
 </p> 
 
 
@@ -58,7 +58,7 @@ And thus, we decided to repeat our analysis using the top five densest zip-codes
 
 (Median income zipcodes chart) <p align="center">
   <img width="460" height="300" src=Images/Zip_median_income_miami.png> 
-    <img width="460" height="400" src=Images/Zip_median_income_orlando.png>
+    <img width="460" height="300" src=Images/Zip_median_income_orlando.png>
 </p>
 
 This is where we started to note differences including room for growth in the high tier marker  
