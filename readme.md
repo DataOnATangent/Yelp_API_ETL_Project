@@ -25,7 +25,7 @@ We began our analysis by looking at the available datapoint of price tier, ratin
 (Charts: break by rating, break price (in tiers) , (box plot) by review count)
 <p align="center">
   <img width="260" height="250" src=Images/Area_Business_By_Price_Tier.png>
-<img width="260" height="250" src=Images/Area_Business_By_Rating.png>
+<img width="260" height="230" src=Images/Area_Business_By_Rating.png>
     <img width="260" height="400" src=Images/Area_Business_By_Review_Count.png>
 </p>   
 
@@ -33,11 +33,11 @@ Specifically, when it came to rating distribution, price tier distribution, and 
 
 (Chart count by tier by rating), (Chart metro are by category density) 
 <p align="center">
-  <img width="560" height="300" src=Images/Area_Combined_Rating_By_Price_count.png>
+  <img width="260" height="300" src=Images/Area_Combined_Rating_By_Price_count.png>
 </p> 
 
 <p align="center">
-  <img width="460" height="400" src=Images/Area_Business_Catagory.png>
+  <img width="260" height="400" src=Images/Area_Business_Catagory.png>
 </p> 
 
 
