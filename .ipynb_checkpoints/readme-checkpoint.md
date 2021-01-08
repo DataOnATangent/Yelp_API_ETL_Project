@@ -29,12 +29,13 @@ We began our analysis by looking at the available datapoint of price tier, ratin
     <img width="260" height="400" src=Images/Area_Business_By_Review_Count.png>
 </p>   
 
-Specifically, when it came to rating distribution, price tier distribution, and review counts, the difference between the two were negligible. While this would mean we would need to dig a little deeper to form a basis for our location decision, it did mean that both locations were comparatively good options for a new business. Both locations already support a high density of spas with more than 1500 hundred spas within 25 miles of the city center. 
-
- 
+Specifically, when it came to rating distribution, price tier distribution, and review counts, the difference between the two were negligible. While this would mean we would need to dig a little deeper to form a basis for our location decision, it did mean that both locations were comparatively good options for a new business. 
 <p align="center">
   <img width="460" height="200" src=Images/Area_Combined_Rating_By_Price_count.png>
 </p> 
+
+Both locations already support a high density of spas with more than 1500 hundred spas within 25 miles of the city center and a multitude of categories. 
+
 <p>
    <img width="460" height="400" src=Images/Area_Business_Catagory.png>
 </p> 
