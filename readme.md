@@ -24,9 +24,9 @@ We began our analysis by looking at the available datapoint of price tier, ratin
 
 (Charts: break by rating, break price (in tiers) , (box plot) by review count)
 <p align="center">
-  <img width="460" height="400" src=Images/Area_Business_By_Price_Tier.png>
-<img width="460" height="400" src=Images/Area_Business_By_Rating.png>
-    <img width="460" height="400" src=Images/Area_Business_By_Review_Count.png>
+  <img width="260" height="370" src=Images/Area_Business_By_Price_Tier.png>
+<img width="260" height="370" src=Images/Area_Business_By_Rating.png>
+    <img width="260" height="400" src=Images/Area_Business_By_Review_Count.png>
 </p>   
 
 Specifically, when it came to rating distribution, price tier distribution, and review counts, the difference between the two were negligible. While this would mean we would need to dig a little deeper to form a basis for our location decision, it did mean that both locations were comparatively good options for a new business. Both locations already support a high density of spas with more than 1500 hundred spas within 25 miles of the city center. 
